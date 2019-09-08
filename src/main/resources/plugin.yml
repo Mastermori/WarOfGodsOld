@@ -1,0 +1,12 @@
+name: KitPvP
+version: ${project.version}
+main: de.warofgods.kitpvp.Kitpvp
+prefix: WarOfGods
+authors: [Mastermori]
+description: The essential plugin made for this server. This provides all the kit and map functionality.
+api-version: 1.13
+
+commands:
+  wog:
+    description: The Main WoG Command.
+    usage: /wog [kit | ability]
